@@ -1,1 +1,2 @@
-https://myprj-frontend-task-qkp3.vercel.app/
+====== FEEDBACK DEPLOYED LINK ======
+https://myprj-frontend-feed.vercel.app/
